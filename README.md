@@ -62,3 +62,4 @@ Feel free to reach out to me for collaborations or just a chat about tech!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/jean-baptiste-azan/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)](https://github.com/jean-baptisteAZAN)
+[![My stats](https://github-readme-stats.vercel.app/api?username=jean-baptisteAZAN)](https://github.com/anuraghazra/github-readme-stats)

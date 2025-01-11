@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm a **3rd Year Epitech Student** and a **Freelance Developer** specializing in fullstack development and DevOps. I'm currently working with [Adfinitas](https://www.adfinitas.fr/), [Proppl](https://github.com/proppl-io/) and [Oden](https://oden-app.com), where I leverage my skills to create impactful digital solutions for various clients, particularly in the charity sector.
+I'm a **3rd Year Epitech Student** and a **Freelance Developer** specializing in fullstack development and DevOps. I'm currently working with [Adfinitas](https://www.adfinitas.fr/), [Proppl](https://github.com/proppl-io/) and [Oden](https://oden-app.com), where I leverage my skills to create impactful digital solutions for various clients.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-baptisteAZAN)](https://github.com/anuraghazra/github-readme-stats)
 

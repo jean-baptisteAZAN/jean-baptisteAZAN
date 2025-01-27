@@ -14,7 +14,7 @@ Feel free to reach out to me for collaborations or just a chat about tech!
 - 📱 Phone: +33 6 42 23 96 23
 - 🌐 Portfolio: www.jeanbaptisteazan.fr
 - 💼 Location: Lille, France
-- 
+
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/jean-baptiste-azan/)
